@@ -40,7 +40,7 @@ void HacerSuma(int num1, int num2){
     std::cout << "numero 2";
     std::cin >> num2;
 
-    suma = num1 + num2;
+    int suma = num1 + num2;
     std::cout << "la suma es:" << suma << std::endl;
 
 }
