@@ -1,10 +1,15 @@
 #include <iostream>
 
-void HacerSuma(int num1, int num 2);
+
+void HacerSuma(int num1, int num2);
 
 int main(){
 
+    int num1, num2;
+
     std::cout << "hola mundo" << std::endl;
+
+    HacerSuma(num1, num2);
 
     return 0;
 }
